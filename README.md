@@ -22,9 +22,7 @@ Aquí encontrarás mis proyectos, colaboraciones y experimentos en programación
 
 ## 📚 Proyectos destacados
 
-- [Control de Inventarios App](#) – Aplicación web para la gestión y control de inventarios en tiempo real.
-- [WeatherNow](#) – Aplicación móvil multiplataforma que muestra el clima actual usando API públicas.
-- [Portafolio Web](#) – Mi sitio personal donde muestro mis proyectos y habilidades.
+-
 
 <!-- Agrega tus proyectos más importantes aquí -->
 
