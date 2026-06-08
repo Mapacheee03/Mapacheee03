@@ -30,8 +30,7 @@ Aquí encontrarás mis proyectos, colaboraciones y experimentos en programación
 
 ## 🌐 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mapacheee03/)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Mapacheee03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/OrlandoVzla/)
 
 <!-- Agrega tus enlaces reales -->
 
