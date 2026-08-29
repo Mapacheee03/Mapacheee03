@@ -113,7 +113,6 @@ Desarrollador Full Stack apasionado por crear soluciones innovadoras y escalable
 
 <div align="center">
 
-### 💡 "El código es poesía para las máquinas"
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes y desafiantes. 🚀
 
